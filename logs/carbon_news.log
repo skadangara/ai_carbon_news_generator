@@ -1,0 +1,187 @@
+2025-08-24 21:31:46,545 [INFO] main — Carbon news summarization started
+2025-08-24 21:31:46,545 [INFO] graph —  Building LangGraph pipeline
+2025-08-24 21:31:46,545 [INFO] graph — LangGraph pipeline compiled
+2025-08-24 21:31:46,546 [INFO] main — Processing topic: 'carbon accounting standards'
+2025-08-24 21:31:46,547 [INFO] graph — [Search Agent] Searching news for topic: carbon accounting standards
+2025-08-24 21:31:48,629 [INFO] search_agent — Found 5 articles for query: 'carbon accounting standards'
+2025-08-24 21:31:54,203 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUs5WFdPU0hROC1DRTJHSU5UWHRGLUFZbGNUWHRyLXczaUZLUFgxQ1plbFA5NUMzeUpnbEVzRTRVY3NUU2VNZjVPeGhnekk1MlRzQnc2Wk1GYUpXRmJnekoyQTJtSDZHMDgwekNFa0NncXA4T09mTk90TVdZenQtNEhxanZBZUJDc3E1VGJjdkZJeENDdnBkQmx3OTYxYkRBY1lhUF93?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:31:58,766 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijAFBVV95cUxOcHdHSlk5TDRpVTRZcUpabk9RRlJ1ZTJIeTNXVDJWcGUyblh4bEFvbnViQXQxUXJ1LXpWNm4xZjA0a2JwczJVcjJLYWlTQ0FNSWFuMlRwSWw5eDJEb0c4eHlNSDU3dld4RkdtUkVvZ0FUU3Njc0JxM045QjIzeUh2U3RYdXh1LTM4eF9SYw?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:32:03,637 [INFO] readability.readability — ruthless removal did not work. 
+2025-08-24 21:32:03,637 [WARNING] summarize_agent — No readable content found at https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMivgNBVV95cUxQOEFOZ05YVkRmY0V1bHJIQ213blZ5T2JPN0c2Qk5janNaTE9mTWxzQ3ZnZGg2YmU5d29ZaHZyYVpYRVV4M09aeUF0VXRZaEtteWczbTAzZGEzdWRTclRIdmJtQmdiZnEzUWdxck5zRHRGc3FKbm1QYmFPN1ZQcy1fdUV4Y01jZG1EWXl0MG1hVVJVanJPZkZUTWlONU40V2VpYWZyQ0hZSE9RTU1KSFhpczIwVTZ4R1pvY2xvNGoxLWpqVmpVTEdlaHBPMVQxMTBXVW51ODluSWx4S01WYmtJX1VUM0l6bUp1cXo3LVlKbXFzQ0p6X20zeGhzX3Y0eUE3bXNwMmZoc3RsUDRZbWR3R19YUGJoNHczXzJVaU12aGdzQWJ3X3lMV1hTLV9rZlJqQS1HeFVaNU9HU3R1M2t6LWtqODZtcTFBM25GSWFnUmlUcXBOQThObDVXWXdva3ZGTjk3a0NpeHl1VVJhbjdSZDhhdkM3OTVpcmlsZS1BUU1MUG9FT05BdzA3TFd0UWdzR0ZuVGxNa2VURnNaZ2U0OXppdVRQdVFwYnI5dWsxeUlKYTU0VUVJYTdPaW9xUQ?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:32:09,079 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUdrc3RTRE1rb0Z0Vkx3ZENEYmplYlJxZ1dRdE5jOVo3Ml9JVlpOV0JJWkttMGRpSUxHbzJRVmtGMzAtRlVmSXV4ZXE5VTJTeEg5T2hQRmM0NmplZXl1OV9vekViMVVkWm9idjAzaUc0bmlYTkRucEVyR1BLNDN1bUVqZWV6S2Jkdk9YZEZZbTNjVl9yUzRYNE9OMTE2ZzNBQjIwQ3Y5OGhoVnFEV1Rr?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:32:13,782 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHAtaTJkSVV5N3M3ODhiMkEwakxXV1o0cXF0M0ViZGpJM3VUZ2U5STZWOTlDWW1uX0RmY2ZPT1p0Z1B5SmFuUHoxYTRvRzRjNzVrOXRtTjR4S2I2QTc5OUFzUW5WdXU1QUh5UXNiMEttV1FaRFJ0aFY1VE9RYWFJLW1EMFg0Q0FZYTNkSVVNcVA1WXUza0k2X2tZZVE?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:32:13,782 [INFO] graph — [Search Agent] Found 5 articles for topic: carbon accounting standards
+2025-08-24 21:32:13,782 [INFO] graph — [Summarize Agent] Summarizing 5 articles
+2025-08-24 21:32:16,679 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:32:16,691 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:32:19,751 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:32:19,753 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:32:21,643 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:32:21,652 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:32:23,845 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:32:23,848 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:32:27,225 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:32:27,228 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:32:27,228 [INFO] graph — [Summarize Agent] Completed summaries
+2025-08-24 21:32:27,230 [INFO] graph — [Evaluate Agent] Evaluating 5 summaries
+2025-08-24 21:32:28,047 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:32:28,058 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 21:32:28,870 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:32:28,873 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 21:32:29,566 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:32:29,591 [INFO] evaluate_agent — Evaluation returned: {'score': 1}
+2025-08-24 21:32:30,383 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:32:30,385 [INFO] evaluate_agent — Evaluation returned: {'score': 8}
+2025-08-24 21:32:30,913 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:32:30,916 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 21:32:30,916 [INFO] graph — [Evaluate Agent] Completed evaluations
+2025-08-24 21:32:30,916 [INFO] main — Retrieved 5 evaluated summaries
+2025-08-24 21:32:30,917 [INFO] main — Processing topic: 'GHG Protocol update'
+2025-08-24 21:32:30,918 [INFO] graph — [Search Agent] Searching news for topic: GHG Protocol update
+2025-08-24 21:32:31,575 [INFO] search_agent — Found 5 articles for query: 'GHG Protocol update'
+2025-08-24 21:32:36,405 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzJ1LXBfQzk1aWVsZW5lTS1KUDRHeERuXzNubnpnS1JEckYxVmhlUHFVVDFRWUNhanMwRVJfTUV1WmpDdzFNTk15cnZnbVRKa3VKRkNmcjdlVS1RYk90Z3NtQWk2cDNXaHFBRWJYOUZEeVRjNk9sRFZPNm9GREdrNk9BMExhN2dHN19Rdmo3YWc?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:32:41,264 [WARNING] summarize_agent — No readable content found at https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHREWFJ2bGI2YVBqbTlieXVFV25XQ1V3M0FfS3BZZk9PUGZSZ2NldU95TE1IMHMzcXA2a1g4VmxBX25SemlzTkZORmZfT09YZmNOWE9KQzdhVFdhaEo4OG1MOWNzN0tsZW00QmdlWlg3SE1xeUlaTi1qT2tPNlZZd2s5dTZFdUFHaTFmdEZybk15WW9uNktLWUE0R2ZoZGFWSFNiWDFrc0Q1djAzai00S2MwNTI1R04w?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:32:45,894 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWQxeGs0dERJYlcxNTg1eDk1c0JvOWlSTnotNUZmNEFHM1lhajBTU2dVcThvSUtXekJpTTJkLVMzeGhHVldwdnVoMzlFM0Vfd3ZYcW9jVG9PaXpfalZobUR4eXBZYnJpMFF1N3NqYnNwQ1RzZGpCbGxKSTVDQXZPX1ctcXRFR19Vd1N0UmVHZjFpbWhJOWpDaTFR?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:32:50,402 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMitgFBVV95cUxNODY4ZjMzbzJwdmRYUnlKRUp2U21MMEdiaXRqMzN3Q2lKOHJXZkhkdFh3Y21uQXRVSzI3ZUluOW9zSmFxeWFtSUY3U2RrY1FPU21zcVpfdmh2MUQ1dTRESGdqcEh1S1h0SDFXVGRTLVJGVTEtYWswR3lXYmJaTG5YOUpnYmlEUE16TEdPMWstdXA0MUFRd0RVTUNrWnhFN0gxdUVMekZiR3M5UFd4OGhGVzJOczhMQQ?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:32:55,176 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc3EzaTIySU8wSlpEUG83dkNMb2lxa0dPaGp6UTZUTXVmc1dOaE5pT2NTc1llbUNxRm9faVJ0Qkt1TWZWZDB3MWUxb2RxVHhlN0h6bExxWC03X3NUVGR5dWtoSExDTDJOZlJSS3djUENSak9jVFQ3WEZqWWw2ZjMwZ1NSVFRyRDVxT1Z0U2c1WnVrb0FUVHpnU2xmTDdpejNOOVN1M19JR0RXWDVOY3JSUWRwOGFUNmhjVk9BTTdaV2hCNnB1RmpGWHI3b25TbVRORWNHLXBxYmhmWGFOdjMyQzhn?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:32:55,176 [INFO] graph — [Search Agent] Found 5 articles for topic: GHG Protocol update
+2025-08-24 21:32:55,176 [INFO] graph — [Summarize Agent] Summarizing 5 articles
+2025-08-24 21:33:01,194 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:01,286 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:33:02,246 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:02,249 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:33:06,077 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:06,079 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:33:09,007 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:09,009 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:33:13,361 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:13,366 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:33:13,366 [INFO] graph — [Summarize Agent] Completed summaries
+2025-08-24 21:33:13,367 [INFO] graph — [Evaluate Agent] Evaluating 5 summaries
+2025-08-24 21:33:14,385 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:14,393 [INFO] evaluate_agent — Evaluation returned: {'score': 8}
+2025-08-24 21:33:15,046 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:15,050 [INFO] evaluate_agent — Evaluation returned: {'score': 1}
+2025-08-24 21:33:15,763 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:15,767 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 21:33:16,770 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:16,774 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 21:33:17,605 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:17,608 [INFO] evaluate_agent — Evaluation returned: {'score': 8}
+2025-08-24 21:33:17,608 [INFO] graph — [Evaluate Agent] Completed evaluations
+2025-08-24 21:33:17,609 [INFO] main — Retrieved 5 evaluated summaries
+2025-08-24 21:33:17,609 [INFO] main — Processing topic: 'CSRD climate disclosure'
+2025-08-24 21:33:17,610 [INFO] graph — [Search Agent] Searching news for topic: CSRD climate disclosure
+2025-08-24 21:33:18,359 [INFO] search_agent — Found 5 articles for query: 'CSRD climate disclosure'
+2025-08-24 21:33:23,607 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0hFcVVuLWJiTERQNThIUmc1anVFQjMzTVQ0bjNxRWMxSC04eGZuZ3l0OFhteG1oVktEYjlCZHIyNzQzRTlBNXItaWs0a0hNcklLbFVpaWZwMjc1dkdXbU9Zb2M3YXhIQzFuNGFMRXdXWVU1aVJCY1BoaUtzMWJyeA?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:33:28,104 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHkxMXNqYzVJYWlwWGJpblNhM191TmU1bVNYeTZzVG81anBUX1RKUV9INFVCUGRwNXdIRmpXN1VpMDctSTdQbG9PQXRJMGVuNUE1RjFIS05RbnkwUG1NTWp6RTRuTEI0cVRCM1B5aUZUeUhVdHJyZms5bVlUQlNoYzVXZm1FRFJjV2Ytb2t6MjFhRHRWRGN6VHNCVQ?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:33:32,911 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3RTZ2tpU09NVk1HVGJWdmc1TzRWUDM5bHUzTTZVSW1zZm1VSC1mUmVtVmNneU5qMDl5SDd2QkhtUnAtZ1NKRzFqOUEycEduWnZxeTRzYnJZWVJTMGUzVldPZEZ1bjVsNGc5dTIzSGx1TlRaZzFBRUNXQnBsa2Jab0RKVG1wREN3VXY2SWZQSldqbnRnOGxJTXdfYWJ4bUVza21JVTUzNTEwU1I3cEhIUndsRQ?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:33:38,054 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFItN3E1bGg2MVZFWmRVU2NXUHhIdC0zTG1BdFA0djFXODFDX2FJN3VlX0gzWlpUYkVRS0E4QVVMUWhmSHBGTDhYSDRxb1dZc1lGUXlZcWpNbzIzRTdRdlRTUmpMdkJXQmVBMG1hd3B2WEJ5cWFZXzRFWGktdVlPWlJ5OWZCWTJRejVz?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:33:42,740 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEw2dW1yek9aMy1zSmIzbDhxU0RCMkM4YzExSlZ2eEV0a2VwajVreHdMcl96aU1RUnB5alJPUFRfeVgzN2dvRXJwdVZHbjF3YVlIS0xyLXB1V3RfdmNPTENvNnppaGVmTjNKUUF0SWRQUS1KVHNxSTNOTVBqQWVBSlU3aTlFOU1XMnVfdXdB?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:33:42,740 [INFO] graph — [Search Agent] Found 5 articles for topic: CSRD climate disclosure
+2025-08-24 21:33:42,740 [INFO] graph — [Summarize Agent] Summarizing 5 articles
+2025-08-24 21:33:46,895 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:46,898 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:33:50,992 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:50,994 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:33:55,300 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:33:55,302 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:34:04,236 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:04,239 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:34:05,841 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:05,843 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:34:05,843 [INFO] graph — [Summarize Agent] Completed summaries
+2025-08-24 21:34:05,844 [INFO] graph — [Evaluate Agent] Evaluating 5 summaries
+2025-08-24 21:34:06,721 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:06,729 [INFO] evaluate_agent — Evaluation returned: {'score': 8}
+2025-08-24 21:34:07,463 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:07,466 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 21:34:08,192 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:08,202 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 21:34:08,915 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:08,918 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 21:34:09,529 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:09,531 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 21:34:09,532 [INFO] graph — [Evaluate Agent] Completed evaluations
+2025-08-24 21:34:09,532 [INFO] main — Retrieved 5 evaluated summaries
+2025-08-24 21:34:09,532 [INFO] main — Processing topic: 'FASB environmental credit rules'
+2025-08-24 21:34:09,534 [INFO] graph — [Search Agent] Searching news for topic: FASB environmental credit rules
+2025-08-24 21:34:10,187 [INFO] search_agent — Found 5 articles for query: 'FASB environmental credit rules'
+2025-08-24 21:34:15,389 [INFO] readability.readability — ruthless removal did not work. 
+2025-08-24 21:34:15,389 [WARNING] summarize_agent — No readable content found at https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMivgNBVV95cUxPaXNOd0hLUjNuRHRLRFlnclVqSFhtOTRHYThaNk5mclhvZ2Z4Q2ZIMGJ4RWVoTWtZQTZIalNzOUZpU2hMWXUxU0hsWWVveDIwRVJra0RjdndQUHd3aGpiTGRaS3JXcWhkNmpZQjZCODh3VG5ZYTRDbG9OWEsxa1RVV285aTFYbjQtTVJVX3ZoOUlJQlJ0T21lMWJIekxYd0I3dXVPLTZNNDFCZG9KMVRMeHlkSnhJR2FoblVaaTU3S0hKM3lQaWhYa0Z2WktyYUp0a0NTemN5YkYtcVV4SmV3MGZMMGxPQ0l5aWh6cHNmb2dJU3VuM2c1akpsWDVfd2haa09RcktXT2dzM05MSXQxQmJoazY5YlJONU9qSGY4Qk1DMGJCVFFyOEZwY0FINEFpc21jc2xocFUtZXBneDF5dVEzajVBRXFzOVlEQTlyckZHVzBzMDVSNkJHNkFzaVV2Q19GTGtORFA1anZPZnVzY1VUTzdKR25leE16SVZ0Rm5xY3hHdWlEVVBLVWtIdkMwNWtYeFgzZzFaVllnaDNmLS1tQ28zb2pkblFjTzI5OWxMZTA5Q0l2dXZlS1JqZw?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:34:20,006 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMilgFBVV95cUxQR0lYNzBPZWR1M3pENHBESEMzMU1LQXpYVjRNQTFCZnFUbk95WlgwUzBrcmFfVTVENHgyODliQkttUjVzUW5wM3lVVllLRWlWbzJOZmxEVW9aM1d1dGlmcF9nX2tQem9LTzRVc3hpMjhLaVptSDVmeHRZSm40aDZXWUhSR3hpTS04Rjk3WmFqazh1NXZkWkE?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:34:25,342 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnJBajVVQjlVOUk2QXlYRGNuQ2tyekNTNjdkVDlXclRDbEZiRzkxdU9hQjJKM2FQdllxVVI4TnduSi14WTZJNHk4Ul9vdXVrSTVOLTVzRmkyYVlyc0lKVDRRQWpRNkEwamtLT2JBLTlvYWtIRnIxSDZCVm94Y3JSMmU5WkpCeS1weEI2aU5OamVHbVUyUXAxczJ4N3NLaEg4OUZPem50ZXU?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:34:30,638 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEJLTE5xZjlLWXBiZUY0VHFpWHQ4WXh5d0pHVDdCMFQxSnpEN1VORHdTLW94UUw3TndYOXhMbEdQQWJHUDliRTBEOG94MVpzN19sWk1CUkRkSVo2bG5BeUJvaUhQbkNreE9abVphb1FoYjJBdDJMM0R1LUJCS2g0R1NtcHdkeFpMa3N1NDh6OVljM01YOFNocFFtVdIBoAFBVV95cUxOVTBOa0dLRnRBSDNUT0NqZTQtTVlCcUxvT3FyX05lckl3MzBKdVV0OGJVM0FyblFfbFNnRlRWd0JEUGxZN3AxMkYxVkoxZTFnVHQxSU4wOVF6VEpCWFVZXy1SUEUtbG5jX0tvU0xaQUZUZ2xhMGdEWVJDMnVGTHBTZ3ozUW0xeEFxdTl5RWxWYkFRWXM1QnRiMmFtbnF3dXRD?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:34:36,342 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMilgFBVV95cUxQczAxaWJLWlZxMTgzaXozWVp6eF8yWmdlNjhNSHk5THpGLWZldHVYTG9rYTJxZjd1SS0zSDBmMHBiSERTZzdpMmVCRzVkMXd2dTBHQ1drWXlUZVY4ZDZBbUt4dm5Oa1ZMRzVHallya2xUS2lfN3VQOFlnQ1RqeUJTNVk0dDB1Uy10VEl5Vk1zbnBWXzdBSUE?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 21:34:36,342 [INFO] graph — [Search Agent] Found 5 articles for topic: FASB environmental credit rules
+2025-08-24 21:34:36,343 [INFO] graph — [Summarize Agent] Summarizing 5 articles
+2025-08-24 21:34:37,845 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:37,870 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:34:42,507 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:42,515 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:34:43,932 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:43,935 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:34:47,411 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:47,413 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:34:51,202 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:51,313 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 21:34:51,313 [INFO] graph — [Summarize Agent] Completed summaries
+2025-08-24 21:34:51,314 [INFO] graph — [Evaluate Agent] Evaluating 5 summaries
+2025-08-24 21:34:52,228 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:52,236 [INFO] evaluate_agent — Evaluation returned: {'score': 1}
+2025-08-24 21:34:53,026 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:53,035 [INFO] evaluate_agent — Evaluation returned: {'score': 8}
+2025-08-24 21:34:53,969 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:53,972 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 21:34:54,785 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:54,789 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 21:34:55,586 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:34:55,589 [INFO] evaluate_agent — Evaluation returned: {'score': 8}
+2025-08-24 21:34:55,590 [INFO] graph — [Evaluate Agent] Completed evaluations
+2025-08-24 21:34:55,591 [INFO] main — Retrieved 5 evaluated summaries
+2025-08-24 21:34:55,591 [INFO] formatter — 📝 [Formatter] Formatting 20 articles into digest
+2025-08-24 21:34:55,591 [INFO] formatter — ✅ [Formatter] Digest formatting complete
+2025-08-24 21:34:55,592 [INFO] main — Digest written to data/carbon_news2025-08-24.md
+2025-08-24 21:34:55,592 [INFO] main — Completed in 189.05 seconds
+2025-08-24 22:04:45,265 [INFO] main — Carbon news extraction and summarization started
+2025-08-24 22:04:45,265 [INFO] graph —  Building LangGraph pipeline
+2025-08-24 22:04:45,266 [INFO] graph — LangGraph pipeline compiled
+2025-08-24 22:04:45,267 [INFO] main — Processing topic: 'carbon accounting standards'
+2025-08-24 22:04:45,268 [INFO] graph — [Search Agent] Searching news for topic: carbon accounting standards
+2025-08-24 22:04:46,097 [INFO] search_agent — Found 5 articles for query: 'carbon accounting standards'
+2025-08-24 22:04:51,592 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUs5WFdPU0hROC1DRTJHSU5UWHRGLUFZbGNUWHRyLXczaUZLUFgxQ1plbFA5NUMzeUpnbEVzRTRVY3NUU2VNZjVPeGhnekk1MlRzQnc2Wk1GYUpXRmJnekoyQTJtSDZHMDgwekNFa0NncXA4T09mTk90TVdZenQtNEhxanZBZUJDc3E1VGJjdkZJeENDdnBkQmx3OTYxYkRBY1lhUF93?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 22:04:56,367 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijAFBVV95cUxOcHdHSlk5TDRpVTRZcUpabk9RRlJ1ZTJIeTNXVDJWcGUyblh4bEFvbnViQXQxUXJ1LXpWNm4xZjA0a2JwczJVcjJLYWlTQ0FNSWFuMlRwSWw5eDJEb0c4eHlNSDU3dld4RkdtUkVvZ0FUU3Njc0JxM045QjIzeUh2U3RYdXh1LTM4eF9SYw?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 22:05:00,941 [INFO] readability.readability — ruthless removal did not work. 
+2025-08-24 22:05:00,942 [WARNING] summarize_agent — No readable content found at https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMivgNBVV95cUxQdk9QVlNWb2FmSFdBOGNGUWtRejBkelExYzFaYmV2ZFl2RkpyMVBndmliYzRPZ2ZXd1FPenVFZjlUQ3FTZkhacmwwVXdBVVpzeEp5OVU1UjY3dWJoOWZEWnRwTDRiN2VuTDBmNU1kemQwMGRJQng1MFdyZFpvdXhOclVndGloZWs3bzZkSmhlcTR0MVdvajVnazJiRjBCa0dKalNxeFM1SXFUQmRsV2JrLTkzQmhhemRMSHpvZXRINDlTa19rTkI1Sk1CbHNlbXhpM1AtcU1Galg3clcwQVhObjR3UnM3WXhGNFB2NEdPbGFZVlRsdElMcGZMMkRSYTZRc1FyVkpPMFBhRVEwVlcwNWhVWWpHWUhzXzNFMG5MOUJRZWJ3RFhLRGZtWTFtWWgtYmFOX3BuaUduZVA4ZG0zWnFFY25ITGsyOUZURnBySl82cXpDZEx0TllvV0c0QTB5RXhXa2NPdF9mOUlaZEhCdi1sU1AzNnFodnNpTk1kcWt0YWJES1lWVXJESkJaZ3NZNUVzVU9JMzhGT2wzcnpvVG5tNWZlVk5HcEZMV29PcUxKSkdNUFVNZW1NV2NwUQ?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 22:05:05,671 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHAtaTJkSVV5N3M3ODhiMkEwakxXV1o0cXF0M0ViZGpJM3VUZ2U5STZWOTlDWW1uX0RmY2ZPT1p0Z1B5SmFuUHoxYTRvRzRjNzVrOXRtTjR4S2I2QTc5OUFzUW5WdXU1QUh5UXNiMEttV1FaRFJ0aFY1VE9RYWFJLW1EMFg0Q0FZYTNkSVVNcVA1WXUza0k2X2tZZVE?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 22:05:10,197 [INFO] summarize_agent — Extracted article from https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1cnBqZHppNDBpOER5Q2pLNHNUNnZPY2xibFpNcTFGUldCeXZWUTNuTjNQLWZmaTVhX0hvZHU1YTBGSTRZaXYzZl9vVDc5OEpMZ1pLa2lDVC1PM3k2VFhz?oc%3D5&gl=DE&hl=en-US&cm=2&pc=n&src=1
+2025-08-24 22:05:10,198 [INFO] graph — [Search Agent] Found 5 articles for topic: carbon accounting standards
+2025-08-24 22:05:10,198 [INFO] graph — [Summarize Agent] Summarizing 5 articles
+2025-08-24 22:05:12,823 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 22:05:12,837 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 22:05:17,675 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 22:05:17,742 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 22:05:18,995 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 22:05:18,997 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 22:05:22,654 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 22:05:22,656 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 22:05:28,121 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 22:05:28,146 [INFO] summarize_agent — Summary generated successfully
+2025-08-24 22:05:28,147 [INFO] graph — [Summarize Agent] Completed summaries
+2025-08-24 22:05:28,149 [INFO] graph — [Evaluate Agent] Evaluating 5 summaries
+2025-08-24 22:05:29,117 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 22:05:29,130 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 22:05:30,162 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 22:05:30,165 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 22:05:31,086 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 22:05:31,088 [INFO] evaluate_agent — Evaluation returned: {'score': 1}
+2025-08-24 22:05:31,695 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 22:05:31,698 [INFO] evaluate_agent — Evaluation returned: {'score': 9}
+2025-08-24 22:05:32,461 [INFO] httpx — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 22:05:32,464 [INFO] evaluate_agent — Evaluation returned: {'score': 8}
+2025-08-24 22:05:32,464 [INFO] graph — [Evaluate Agent] Completed evaluations
+2025-08-24 22:05:32,465 [INFO] main — Retrieved 5 evaluated summaries
+2025-08-24 22:05:32,465 [INFO] formatter — 📝 [Formatter] Formatting 5 articles into digest
+2025-08-24 22:05:32,465 [INFO] formatter — ✅ [Formatter] Digest formatting complete
+2025-08-24 22:05:32,466 [INFO] main — Digest written to data/carbon_news_2025-08-24.md
+2025-08-24 22:05:32,466 [INFO] main — Completed in 47.20 seconds
