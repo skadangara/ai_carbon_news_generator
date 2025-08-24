@@ -13,7 +13,7 @@ from src.core.logger import get_logger
 logger = get_logger("graph")
 
 # -----------------------------
-# 🔍 Agent: Search
+# Agent: Search
 # -----------------------------
 def search_agent(state):
     topic = state["topic"]
