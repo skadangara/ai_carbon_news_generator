@@ -19,6 +19,21 @@ summarize_agent → Generates concise summaries from the raw content.
 evaluate_agent → Compares each summary with the original content and assigns a quality score (1–10). A higher score indicates better accuracy, completeness, and clarity.
 
 This ensures experts receive reliable, high-quality, and actionable news updates every day.
+## Overall Architecture
+
+User ->> SearchAgent ->> SummarizeAgent ->> EvaluateAgent ->> DataStore: Save summary + evaluation score
+
+Step by step process:
+
+User triggers a search query (e.g., “carbon accounting standards”).
+
+SearchAgent retrieves carbon-related news articles and extracts raw content.
+
+SummarizeAgent condenses the extracted content into a clear summary.
+
+EvaluateAgent scores the summary for quality (1–10) and attaches it.
+
+Final output is saved as a Markdown file in the data/ folder.
 ## Prerequisites
 
 1. Install necessary libraries from the requirements.txt file.
