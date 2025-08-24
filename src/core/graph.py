@@ -8,7 +8,7 @@ from src.agents.evaluate_agent import evaluate_summary
 from src.core.logger import get_logger
 
 # -----------------------------
-# 🔧 Logger Setup
+# Logger Setup
 # -----------------------------
 logger = get_logger("graph")
 
